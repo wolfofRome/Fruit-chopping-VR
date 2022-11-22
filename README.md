@@ -1,2 +1,2 @@
-# mariogame
-Mario game 
+# fruitgame
+Fruit chopping VR game 
