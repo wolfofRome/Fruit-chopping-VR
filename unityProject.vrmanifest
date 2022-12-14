@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fruitcutting.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Lixr Student\\Documents\\FruitCutting - test\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FruitCutting [Testing]"
+        }
+      }
+    }
+  ]
+}
